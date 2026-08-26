@@ -1,0 +1,60 @@
+{
+  "instrumentos": [
+    {
+      "id": 1,
+      "nombre": "Guitarra Acústica",
+      "familia": "Cuerdas",
+      "origen": "España",
+      "precioAproximado": 3500
+    },
+    {
+      "id": 2,
+      "nombre": "Piano de Cola",
+      "familia": "Cuerdas percutidas",
+      "origen": "Italia",
+      "precioAproximado": 120000
+    },
+    {
+      "id": 3,
+      "nombre": "Batería Acústica",
+      "familia": "Percusiones",
+      "origen": "Estados Unidos",
+      "precioAproximado": 15000
+    },
+    {
+      "id": 4,
+      "nombre": "Saxofón Alto",
+      "familia": "Viento madera",
+      "origen": "Bélgica",
+      "precioAproximado": 18000
+    },
+    {
+      "id": 5,
+      "nombre": "Violín",
+      "familia": "Cuerdas",
+      "origen": "Italia",
+      "precioAproximado": 8000
+    },
+    {
+      "id": 6,
+      "nombre": "Trompeta",
+      "familia": "Viento metal",
+      "origen": "Alemania",
+      "precioAproximado": 9500
+    },
+    {
+      "id": 7,
+      "nombre": "Marimba",
+      "familia": "Percusiones",
+      "origen": "México",
+      "precioAproximado": 25000
+    },
+    {
+      "id": 8,
+      "nombre": "Bajo Eléctrico",
+      "familia": "Cuerdas",
+      "origen": "Estados Unidos",
+      "precioAproximado": 7000
+    }
+  ]
+}
